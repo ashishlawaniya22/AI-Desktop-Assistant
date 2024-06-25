@@ -1,0 +1,9 @@
+speechrecognition
+wikipedia
+openai
+pyaudio
+pyttsx3
+pocketsphinx
+google-generativeai
+python-dotenv
+ttkthemes

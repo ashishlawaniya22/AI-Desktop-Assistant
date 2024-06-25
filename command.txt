@@ -1,0 +1,13 @@
+1.what is the time : for time
+2.open : open website "homepage"
+3.search : for search on google
+4.open app: for execute any "install" app
+5.open file: to open any file
+5.play music: from any folder, start playing
+6.play video: from any folder, start playing
+7."help" or "tell" : gives a proper response and well doc file for response
+8.shut down : shut down pc 
+9.quit : quit the program
+10"any this else" will activate voice chat mode 
+
+11.click weather and enter city/country 
